@@ -1,0 +1,6 @@
+{
+  "name": "VTT HORSETRAIL-RANDO",
+  "description": "Plateforme multi-organisateurs pour la gestion de courses VTT, Trail, Équitation et Randonnée (GPX, coureurs, classements, espace privé).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
